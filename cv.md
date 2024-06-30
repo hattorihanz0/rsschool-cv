@@ -28,3 +28,12 @@ function compose(...fns) {
     }
 }
 ```
+
+### Education
+---
+* **University:** _Tashkent University of Information Technologies named after Muhammad al-Khwarizmi_
+
+
+### English Level
+---
+***B1***
